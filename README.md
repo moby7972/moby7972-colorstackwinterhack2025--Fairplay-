@@ -201,8 +201,7 @@ http://127.0.0.1:8000/auth/login
 
 ## 🎥 Demo
 
-Video Demo: (Add link here)
-
+Video Demo: https://youtu.be/JL5spFgamjA
 GitHub Repo: https://github.com/moby7972/moby7972-colorstackwinterhack2025--Fairplay-.git
 
 ## 👤 Author
